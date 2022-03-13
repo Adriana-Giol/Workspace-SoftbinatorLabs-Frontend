@@ -1,5 +1,5 @@
 # 💛 Softbinator Labs - Frontend
-**Cursuri de Frantend oferite de Softbinator Technologies**</br>
+**Cursuri de Frontend oferite de Softbinator Technologies**</br>
 **Februarie - Martie 2022**</br>
 **Cursuri sustinute de: Stefan Pavel,**</br>
 
